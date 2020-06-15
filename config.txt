@@ -1,5 +1,5 @@
-token=NTkwOTE2ODUyNDgyNTcyMzQ5.XQpMQA.kPMBSju3AiUiQBcSbxIx5W8sAq4
-owner=569841293837074432
-prefix=..
+token=NzIyMTg0NTczNDcwOTAwMzI1.XufY4A.k-18hgR1CB1Lc-75ewZ3___oJ2g
+owner=A_M_H_13#4781
+prefix=-
 stayinchannel=true
 songinstatus=true
